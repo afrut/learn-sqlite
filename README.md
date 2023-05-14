@@ -45,3 +45,4 @@ sqlite3 -version
 - sqlite tutorial: https://www.sqlitetutorial.net/
 - sqlite cheat sheet: https://www.sqlitetutorial.net/sqlite-cheat-sheet/
 - sqlite resources: https://www.sqlitetutorial.net/sqlite-resources/
+- sqlite cli reference: https://www.sqlite.org/cli.html
