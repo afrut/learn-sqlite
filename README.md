@@ -46,3 +46,4 @@ sqlite3 -version
 - sqlite cheat sheet: https://www.sqlitetutorial.net/sqlite-cheat-sheet/
 - sqlite resources: https://www.sqlitetutorial.net/sqlite-resources/
 - sqlite cli reference: https://www.sqlite.org/cli.html
+- sqlite date and time functions: https://www.sqlite.org/lang_datefunc.html
